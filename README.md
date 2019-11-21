@@ -1,16 +1,3 @@
-# tugas2
+# Tugas 2 OSG Flutter 2019 - Abbas Adam Az Zuhri
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tugas ke 2 OSG flutter 2019 adalah membuat aplikasi menggunakan flutter dengan materi UI UX dari berbagai widget yang tersedia di flutter. Aplikasi dibuat dengan tema kemerdekaan indonesia dengan syarat ada widget text, image, icon dsb.
